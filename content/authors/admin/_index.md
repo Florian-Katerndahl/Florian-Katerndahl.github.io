@@ -47,6 +47,8 @@ profiles:
   #  url: https://scholar.google.com/
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-6137-061X
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Florian-Katerndahl
 
 interests:
   - Large scale remote sensing data analysis
