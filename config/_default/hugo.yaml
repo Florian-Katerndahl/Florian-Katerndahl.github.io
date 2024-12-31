@@ -9,6 +9,17 @@ title: Florian Katerndahl's Website
 baseURL: 'https://katerndahl.dev/'
 
 ############################
+## CASCADING FRONT MATTER
+############################
+
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
+    reading_time: false
+    commentable: false
+
+############################
 ## LANGUAGE
 ############################
 
@@ -35,7 +46,7 @@ permalinks:
   authors: '/author/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, headers, redirects, backlinks]
+  home: [HTML, RSS, backlinks]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
