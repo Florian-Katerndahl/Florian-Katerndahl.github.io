@@ -223,4 +223,7 @@ languages:
 
 ## About Me
 
-Welcome to my website.
+After graduating from FU Berlin with a Bachelor of Science in Geography, I'm switched fields to Computational Sciences and enrolled in the corresponding Master at University Potsdam.
+
+During my Bachelor, I focused on Remote Sensing and Earth Observation with particular interest in technical details underlying classical analysis methods. Developing small to mid scale software projects and publishing them freely on GitHub combines both hobby and study/work related interests.
+
