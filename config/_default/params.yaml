@@ -9,12 +9,12 @@ appearance:
   color: emerald
 
 # SEO
-#marketing:
-#  seo:
-#    site_type: Person
+marketing:
+ seo:
+   site_type: Person
 #    local_business_type: ''
 #    org_name: ''
-#    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+   description: 'Student at University of Potsdam and Student Research Assistant at HU Berlin.'
 #    twitter: 'GetResearchDev'
 #  analytics:
 #    google_analytics: ''
