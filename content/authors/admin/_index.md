@@ -117,11 +117,11 @@ skills:
       - name: Nextflow
         description: |
           Good knowledge in the conceptualization and development of remote sensing analysis workflows and their adaptation for different computing environments.
-        icon: brands/nextflow
+        icon: nextflow
       - name: CUDA
         description: |
           Basic knowledge of CUDA C/C++ Programming.
-        icon: brands/nvidia
+        icon: nvidia
       - name: Snakemake
         description: |
           Basic knowledge in the conceptualization and development of workflows and their adaptation for different computing environments.
