@@ -112,12 +112,16 @@ skills:
         icon: devicon/python
       - name: C
         description: |
-          Knowledge of procedural programming, especially in relation to geodata (GDAL/OGR).
+          Knowledge of procedural programming, especially in relation to geodata (GDAL/OGR). Additionally, limited experience with OpenMP and MPI programming.
         icon: devicon/c
       - name: Nextflow
         description: |
           Good knowledge in the conceptualization and development of remote sensing analysis workflows and their adaptation for different computing environments.
-        icon: code-bracket
+        icon: brands/nextflow
+      - name: CUDA
+        description: |
+          Basic knowledge of CUDA C/C++ Programming.
+        icon: brands/nvidia
       - name: Snakemake
         description: |
           Basic knowledge in the conceptualization and development of workflows and their adaptation for different computing environments.
