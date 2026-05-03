@@ -37,9 +37,6 @@ abstract: The main component of each campaign is a set of high-resolution (1 cm)
 
 All five sub-campaigns follow the same acquisition protocol, processing workflow, file structure, and naming convention. Each campaign is published as an individual Zenodo record and can be downloaded separately.
 
-# Summary. An optional shortened abstract.
-summary:
-
 tags:
 featured: false
 
