@@ -21,7 +21,7 @@ authors:
 - Marius Scholl
 - Asad Waseem
 - Fabian Fassnacht
-date: "2026-03"
+date: "2026-03-16"
 doi: "10.5281/zenodo.18670608"
 
 # Publication type.
@@ -33,9 +33,7 @@ publication_types: ["dataset"]
 publication: "Zenodo"
 publication_short: ""
 
-abstract: The main component of each campaign is a set of high-resolution (1 cm) 3D point clouds representing 50 m × 50 m forest plots acquired with a RIEGL VZ-400i terrestrial laser scanner. In addition to the point clouds, each campaign provides standardized supplementary data, including scan position shapefiles, plot boundary polygons, tree-level attribute data (DBH, height, species class), preview images, and a comprehensive metadata overview table.
-
-All five sub-campaigns follow the same acquisition protocol, processing workflow, file structure, and naming convention. Each campaign is published as an individual Zenodo record and can be downloaded separately.
+abstract: The main component of each campaign is a set of high-resolution (1 cm) 3D point clouds representing 50 m × 50 m forest plots acquired with a RIEGL VZ-400i terrestrial laser scanner. In addition to the point clouds, each campaign provides standardized supplementary data, including scan position shapefiles, plot boundary polygons, tree-level attribute data (DBH, height, species class), preview images, and a comprehensive metadata overview table. <p> All five sub-campaigns follow the same acquisition protocol, processing workflow, file structure, and naming convention. Each campaign is published as an individual Zenodo record and can be downloaded separately.
 
 tags:
 featured: false
